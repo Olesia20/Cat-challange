@@ -3,7 +3,11 @@
   padding: 0;
 }
 h1 {
-  color: brown;
+  margin-top: 15px;
+  font-size: 30px;
+  font-family: "Rubik Microbe", cursive;
+  color: rgb(210, 159, 159);
+  text-align: center;
 }
 p {
   margin: 30px;
