@@ -5,6 +5,12 @@
 body {
   background-color: rgb(244, 229, 219);
 }
+img {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid rgb(244, 229, 219);
+  border-radius: 25px;
+}
 h2,
 h1 {
   margin-top: 15px;
